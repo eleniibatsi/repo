@@ -96,17 +96,6 @@ li.active > a.nav-button {
   padding: 0;
 }
 .parallax.p1 {
-  background: url(background-image: url('https://i.seadn.io/gcs/files/e9be4a111d5350d73f0a8d0ba34b028d.png?auto=format&dpr=1&w=1920');) no-repeat fixed 50% 0;
-  background-size: cover;
-  color: #fff;
-}
-.parallax.p2 {
-  background: url(background-image: url('https://i.seadn.io/gcs/files/e9be4a111d5350d73f0a8d0ba34b028d.png?auto=format&dpr=1&w=1920');) no-repeat fixed 50% 0;
-  background-size: cover;
-  color: #fff;
-}
-.parallax.p3 {
-  background: url(background-image: url('https://i.seadn.io/gcs/files/e9be4a111d5350d73f0a8d0ba34b028d.png?auto=format&dpr=1&w=1920');) no-repeat fixed 70% 0;
   background-size: cover;
   color: #fff;
 }
