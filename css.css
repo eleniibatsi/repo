@@ -116,16 +116,6 @@ li.active > a.nav-button {
   height: 100%;
 } 
 
-.center {
-  text-align: center;
-    background-color: red;
-    background-image: url('https://i.seadn.io/gcs/files/e9be4a111d5350d73f0a8d0ba34b028d.png?auto=format&dpr=1&w=1920');
-    background-size: contain;
-    background-position: 50% 0;
-    background-repeat: no-repeat;
-    height: 100px;
-}
-
 hgroup{
   display: flex;
   justify-content: center;
